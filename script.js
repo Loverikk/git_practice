@@ -1,1 +1,1 @@
-sadasasda
+const ad = 'New advertisement'
